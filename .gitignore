@@ -1,2 +1,7 @@
 *.class
 *.log
+!/file.pdf
+*.t2
+.idea
+downloadtorrenter.iml
+file.pdf
